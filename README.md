@@ -24,7 +24,7 @@
 
 
 <!--div style="text-align: center;"-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact) [![Lanmark1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,prs,issues&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,prs,issues&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&count_private=true) [![Lanmark1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,prs,issues&show_icons=true&count_private=true)
 <!--/div-->
  
 
