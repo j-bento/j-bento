@@ -26,8 +26,8 @@
   <a href="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=Jupyter%20Notebook">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6" />
   </a>
 </div>
 
