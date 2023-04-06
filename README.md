@@ -23,18 +23,9 @@
 
 <h3>Mes statistiques GitHub :</h3>
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6" />
-  </a>
-</div>
-
-<!--div style="text-align: center;"-->
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&count_private=true) [![Lanmark1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,prs,issues&show_icons=true&count_private=true) -->
-<!--/div-->
- 
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true" /> </p>
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6" /> </p>
+</div> 
 
 <!--
 Here are some ideas to get you started:
