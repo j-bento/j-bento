@@ -1,6 +1,6 @@
 <h2 align="center">Bienvenue, je suis Jérémie Bentolila</h2>
 
-<h2 align="center">Étudiant en Master 1 Génie Logiciel</h2>
+<h2 align="center">Étudiant en Master 2 Génie Logiciel</h2>
 
 <h3> Pour me contacter :</h3>
 <div align="center">
