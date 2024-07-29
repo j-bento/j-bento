@@ -23,8 +23,8 @@
 
 <h3>Mes statistiques GitHub :</h3>
 <div align="center">
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lanmark1&hide=contribs,issues&show_icons=true&count_private=true" /> </p>
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanmark1&layout=compact&hide=Jupyter%20Notebook&langs_count=6" /> </p>
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=j-bento&hide=contribs,issues&show_icons=true&count_private=true" /> </p>
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-bento&layout=compact&hide=Jupyter%20Notebook&langs_count=6" /> </p>
 </div> 
 
 <!--
